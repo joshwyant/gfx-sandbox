@@ -1,7 +1,10 @@
 # gfx-sandbox
-Sandbox for learning various graphics frameworks.
+Sandbox for me to learn various graphics frameworks.
 
-## Rasterizer (2008)
+1. [Rasterizer (2008)](#1-rasterizer-2008): Soft 3D rasterizer
+2. [GLWinFF](#2-glwinff): OpenGL fixed-function and WinAPI
+
+## 1. Rasterizer (2008)
 A software 3D graphics rasterizer from scratch. Converted to VS 2022 project. Runs on Windows.
 
 Rendering code: [Rasterizer/Form1.cs](Rasterizer/Rasterizer/Form1.cs)
@@ -12,6 +15,6 @@ Math helpers: [Rasterizer/Math3D.cs](Rasterizer/Rasterizer/Math3D.cs)
 
 Duplicated here from [github.com/joshwyant/rasterizer](https://github.com/joshwyant/rasterizer).
 
-## GLWinFF
+## 2. GLWinFF
 Old-style OpenGL fixed-function pipeline using the Windows API.
 
