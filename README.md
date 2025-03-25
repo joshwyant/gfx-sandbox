@@ -5,6 +5,7 @@ Sandbox for me to learn various graphics frameworks.
 2. [React threejs](#2-react-threejs): three.js app with react, fiber, and drei
 3. [GLWinFF](#3-glwinff): OpenGL fixed-function and WinAPI
 4. [webgl-react](#4-webgl): WebGL/react
+5. [webgpu-react](#5-webgpu): WebGPU/react
 
 ## 1. Rasterizer (2008)
 A software 3D graphics rasterizer from scratch. Converted to VS 2022 project. Runs on Windows.
@@ -41,3 +42,16 @@ Use:
 cd webgl-react/
 npm run dev
 ```
+
+Then open [http://localhost:5173/](http://localhost:5173/).
+
+## 5. WebGPU
+WebGPU in a react project.
+
+Use:
+```bash
+cd webgpu-react/
+npm run dev
+```
+
+Then open [http://localhost:5173/](http://localhost:5173/).
