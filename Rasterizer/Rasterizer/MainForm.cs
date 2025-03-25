@@ -10,7 +10,7 @@ using Math3D;
 
 namespace Rasterizer
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         /*
         struct Vector2
@@ -330,7 +330,7 @@ namespace Rasterizer
         unsafe float* depth;
         int frames;
         int delta;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             this.ResizeRedraw = true;

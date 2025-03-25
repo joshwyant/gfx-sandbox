@@ -7,7 +7,7 @@ Sandbox for me to learn various graphics frameworks.
 ## 1. Rasterizer (2008)
 A software 3D graphics rasterizer from scratch. Converted to VS 2022 project. Runs on Windows.
 
-Rendering code: [Rasterizer/Form1.cs](Rasterizer/Rasterizer/Form1.cs)
+Rendering code: [Rasterizer/MainForm.cs](Rasterizer/Rasterizer/MainForm.cs)
 
 Math helpers: [Rasterizer/Math3D.cs](Rasterizer/Rasterizer/Math3D.cs)
 
